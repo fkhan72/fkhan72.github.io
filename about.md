@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Furqan Khan, learning data science
 
 ### More Information
 
