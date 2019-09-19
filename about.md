@@ -8,8 +8,7 @@ I am Furqan Khan, learning data science
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I a graduate student at UBC, Vancouver campus and I am enthusiastic about Big Data.
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
